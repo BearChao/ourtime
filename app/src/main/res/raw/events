@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <events>
+        <event>
+            <name>某某的生日</name>
+            <date>20140906</date>
+            <loop>true</loop>
+        </event>
+        <event>
+            <name>某某纪念日</name>
+            <date>19991231</date>
+            <loop>false</loop>
+        </event>
+    </events>
